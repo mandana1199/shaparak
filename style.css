@@ -147,6 +147,11 @@ color: #0F659F;
     margin-top: -5px;
 }
 
+.div-border-three:focus{
+    border-top: 2px solid rgb(100, 226, 238) !important;
+    margin-top: -15px;
+}
+
 
 
 .div-border-top-three{
