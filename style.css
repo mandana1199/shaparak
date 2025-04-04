@@ -93,18 +93,6 @@ color: #0F659F;
 
 }
 
-.dropdown-toggle:focus{
-    border-top: 2px solid #080808;
-    outline: none;
-    box-shadow: none;
-    border: none;
-    
-}
-
-.btn:focus {
-    box-shadow: none ;
-    --bs-btn-focus-box-shadow: 0 0 0 0 rgba(var(--bs-btn-focus-shadow-rgb), 0.1) !important; 
-}
 
 .div-border-top-one{
     
