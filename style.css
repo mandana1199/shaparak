@@ -76,8 +76,8 @@ color: #0F659F;
 .i-dropdown{
     
    position: absolute;
-   top: 0.9px;
-   left:5% ;
+   top: -4px;
+   left:10% ;
 }
 
 #div-block-none-menu{
